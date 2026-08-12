@@ -1,1 +1,20 @@
-
+{
+  "version": "1.1.2",
+  "sourceName": "Andy Store",
+  "sourceAuthor": "Andy Link",
+  "sourceLinkTitle": "Andy Link",
+  "sourceLinkUrl": "https://t.me/andy_link_bot",
+  "sourceImage": "https://raw.githubusercontent.com/amamandrew85-sys/andy-store/main/icon.PNG",
+  "sourceUpdateTime": "2026-08-12T12:00:00+0300",
+  "sourceDescription": "Официальный источник Andy Store",
+  "appCategories": [
+    "Network",
+    "Social",
+    "Music",
+    "Video",
+    "Design",
+    "Games",
+    "Other"
+  ],
+  "appRepositories": []
+}
